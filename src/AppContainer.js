@@ -4,9 +4,9 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import './App.scss';
+import './App.css';
 import Home from './screens/Home';
-import Products from './screens/Products';
+import Products from './screens/Product';
 import Detail from './screens/Detail';
 import Cart from './screens/Cart';
 import Wishlist from './screens/Wishlist';
