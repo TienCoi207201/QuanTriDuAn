@@ -31,8 +31,7 @@ function App() {
             {/* trademark */}
             <div className='flex flex-row move-down'>
                 <div className='flex flex-col w-1/2 justify-center items-center'>
-                    <div className='text-6xl font-bold text-center mx-20'>REGAIN YOUR CONFIDENCE ON THE nhanh1.</div>
-                    <div className='text-xl mt-10'>Take your game to the next level.</div>
+
                 </div>
                 <div className='flex w-1/2 img-hero' />
             </div>
