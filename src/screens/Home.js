@@ -31,7 +31,7 @@ function App() {
             {/* trademark */}
             <div className='flex flex-row move-down'>
                 <div className='flex flex-col w-1/2 justify-center items-center'>
-                    <div className='text-6xl font-bold text-center mx-20'>REGAIN YOUR CONFIDENCE ON THE COURT.</div>
+                    <div className='text-6xl font-bold text-center mx-20'>REGAIN YOUR CONFIDENCE ON THE nhanh1.</div>
                     <div className='text-xl mt-10'>Take your game to the next level.</div>
                 </div>
                 <div className='flex w-1/2 img-hero' />
@@ -47,7 +47,7 @@ function App() {
                         <img src={e.img} alt={e.title} className='h-full w-full object-cover' />
                         <div className='flex flex-col absolute top-1/2 left-1/2 transform-center'>
                             <div className=' text-center text-white text-3xl font-bold'>{e.title}</div>
-                            <button onClick={onMoveToProduct(e)} className='bg-white p-2 round'>Shop Now</button>
+                            <button onClick={onMoveToProduct(e)} className='bg-white p-2 round'>nhanh1</button>
                         </div>
                     </div>
                 ))}
