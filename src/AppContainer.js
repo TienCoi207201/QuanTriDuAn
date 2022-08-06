@@ -12,6 +12,7 @@ import Cart from './screens/Cart';
 import Wishlist from './screens/Wishlist';
 import Login from './screens/Login';
 import Register from './screens/Register';
+import Screen1 from './screens/screen1'
 
 export default function App() {
   return (
@@ -24,6 +25,7 @@ export default function App() {
         <Route path="/wishlish" element={<Wishlist/>}/>
         <Route path="/login" element={<Login/>}/>
         <Route path="/register" element={<Register/>}/>
+        <Route path='/screen1' element={<Screen1/>}/>
       </Routes>
     </BrowserRouter>
   );
