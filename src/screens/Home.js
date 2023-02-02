@@ -54,8 +54,8 @@ function App() {
 
             {/* feature */}
             <div className='px-10 mt-8'>
-                <div className='text-6xl font-bold'>FEATURED</div>
-                <div className='feature-img'>Dòng 58</div>
+                <div className='text-6xl font-bold'>đừng bị confilict</div>
+                <div className='feature-img'>#Off the Wall</div>
             </div>
 
         </div>
